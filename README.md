@@ -22,3 +22,7 @@ Future:
 * QR Code detection on screenshot / image in clipboard
 * Something neater than AHK (as neat as it is)
 * Installer
+
+
+Shameless Plug
+* Visit https://vanishing.link for all your ephemeral sharing needs
