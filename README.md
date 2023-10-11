@@ -10,3 +10,6 @@ Tapping F1 on your keyboard initiates a scan of the viewable screen area and che
 
 Future:
 * Handling by QR Type - If a link, automatically opens in a new window
+* Logging so you can see previous qr codes
+* QR Code detection on screenshot / image in clipboard
+* Something neater than AHK (as neat as it is)
