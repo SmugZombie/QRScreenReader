@@ -15,14 +15,12 @@ Installation:
 
 Once installed:
 * Just hit F1 when you see a qr code you wish to scan.
+* Copy an image or screen clipping and hit CTRL-F1 to scan it instead of the whole screen.
 
 Future:
 * Handling by QR Type - If a link, automatically opens in a new window
 * Logging so you can see previous qr codes
-* QR Code detection on screenshot / image in clipboard
 * Something neater than AHK (as neat as it is)
-* Installer
-
 
 Shameless Plug
 * Visit https://vanishing.link for all your ephemeral sharing needs
